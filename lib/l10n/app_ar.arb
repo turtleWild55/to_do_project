@@ -1,0 +1,30 @@
+
+{"add_new_task":"اضافة مهمة جديدة",
+"enter_task_title":"ادخل اسم المهمة",
+"enter_task_desc":"ادخل وصف المهمة",
+"select_date":"اختر تاريخ",
+"edit_task":"تعديل مهمة",
+"language":"اللغة",
+"english":"الانجليزية",
+"arabic":"العربية",
+"mode":"الاضاءة",
+"dark":"ليلي",
+"light":"نهاري",
+"save_changes":"حفظ",
+"email":"الحساب",
+"password":"كلمة المرور",
+"user_name":"اسم المستخدم",
+"confirm_password":"تاكيد كلمة المرور",
+"welcome_back":"!مرحبا بك",
+"login":"تسجيل دخول",
+"create_account":"انشاء حساب",
+"already_have_an_account":"لديك حساب؟ تسجيل دخول",
+"dont_have_account_sign_up":"ليس لديك حساب؟انشا حساب",
+"this_field_cant_be_null":"هذا الحقل لا يجب ان يكون فارغا",
+"password_must_be_at_least_6_characters":"كلمة المرور لا تقل عن 6 حروف",
+"please_enter_avalid_email":"ادخل حساب صحيح"
+
+
+
+
+}
